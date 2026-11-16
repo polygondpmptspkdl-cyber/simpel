@@ -1,0 +1,8 @@
+{
+  "name": "SIMPEL MPP Kendal — Monitoring Pelayanan Publik",
+  "description": "Sistem Informasi Monitoring Pelayanan Publik Kabupaten Kendal dengan dashboard visual real-time, pencatatan permasalahan harian, peta permasalahan MPP, serta ekspor laporan PDF, Excel, dan Word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
